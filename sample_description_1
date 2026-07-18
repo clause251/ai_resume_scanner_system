@@ -1,0 +1,30 @@
+Job Title: Machine Learning Engineer
+
+About the Role:
+We are looking for a Machine Learning Engineer to join our AI team. You will
+be responsible for building, training, and deploying machine learning models
+that power our core products.
+
+Responsibilities:
+- Design and implement NLP pipelines for text classification and analysis
+- Train and evaluate machine learning models using Python and Scikit-learn
+- Build and maintain REST APIs to serve model predictions using Flask
+- Preprocess and clean large datasets using Pandas and NumPy
+- Work with TensorFlow for deep learning model development
+- Deploy models to production using Docker
+- Collaborate with data engineers and product teams on model integration
+- Monitor model performance and retrain models as needed
+
+Requirements:
+- 2+ years of experience in Python development
+- Strong understanding of machine learning and NLP concepts
+- Experience with Scikit-learn, TensorFlow, Pandas, and NumPy
+- Familiarity with REST API development using Flask
+- Experience with SQL databases
+- Knowledge of Docker and model deployment practices
+- Strong problem-solving and communication skills
+
+Nice to Have:
+- Experience with feature engineering and model evaluation
+- Familiarity with Git and version control workflows
+- Exposure to cloud platforms such as AWS or GCP
