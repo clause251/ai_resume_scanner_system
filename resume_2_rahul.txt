@@ -1,0 +1,35 @@
+Rahul Verma
+Email: rahul.verma@email.com | Phone: +91-9123456780
+Location: Pune, India
+
+SUMMARY
+Creative front-end developer with 4 years of experience designing responsive
+web interfaces. Strong focus on user experience, HTML, CSS, and JavaScript
+frameworks. Some exposure to backend development and databases.
+
+SKILLS
+HTML, CSS, JavaScript, React, Redux, Bootstrap, Figma, UI/UX Design,
+Responsive Design, Git, Node.js, MongoDB, Photoshop
+
+EXPERIENCE
+Front-End Developer, PixelCraft Studio (2021 - Present)
+- Designed and developed responsive websites using React and Bootstrap
+- Improved page load speed by optimizing JavaScript and CSS assets
+- Worked closely with designers to implement UI/UX mockups from Figma
+- Built reusable React components for internal component library
+
+Web Developer Intern, WebNest Technologies (2020 - 2021)
+- Built landing pages using HTML, CSS, and JavaScript
+- Assisted senior developers with bug fixes and testing
+- Learned basics of Node.js and MongoDB for simple backend tasks
+
+EDUCATION
+B.Sc in Information Technology, Pune University (2016 - 2020)
+
+PROJECTS
+- Portfolio Website: Personal portfolio built with React and hosted on Netlify
+- E-commerce UI Clone: Recreated a shopping website interface using React and Redux
+
+CERTIFICATIONS
+- Responsive Web Design (freeCodeCamp)
+- UI/UX Design Fundamentals (Coursera)

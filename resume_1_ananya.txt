@@ -1,0 +1,36 @@
+Ananya Sharma
+Email: ananya.sharma@email.com | Phone: +91-9876543210
+Location: Mumbai, India
+
+SUMMARY
+Motivated software engineer with 3 years of experience building machine learning
+and data-driven applications. Skilled in Python, NLP, and REST API development.
+Passionate about deploying models into production systems.
+
+SKILLS
+Python, Scikit-learn, Pandas, NumPy, TensorFlow, NLP, Text Preprocessing,
+REST APIs, Flask, Git, SQL, Docker, Machine Learning, Data Visualization,
+Model Evaluation, Feature Engineering
+
+EXPERIENCE
+Software Engineer, DataWorks Pvt Ltd (2022 - Present)
+- Built a Python-based NLP pipeline to classify customer support tickets
+- Trained and evaluated machine learning models using Scikit-learn and TensorFlow
+- Developed REST APIs with Flask to serve model predictions
+- Collaborated with cross-functional teams to deploy models using Docker
+
+Junior Developer, CodeBase Solutions (2021 - 2022)
+- Wrote Python scripts for data cleaning and preprocessing
+- Assisted in building internal dashboards using Pandas and Matplotlib
+- Maintained SQL databases and wrote queries for reporting
+
+EDUCATION
+B.Tech in Computer Science, Mumbai University (2017 - 2021)
+
+PROJECTS
+- Resume Ranking Tool: Built a text similarity tool using TF-IDF and cosine similarity
+- Chatbot Assistant: Created an intent-based chatbot using NLP techniques
+
+CERTIFICATIONS
+- Machine Learning by Andrew Ng (Coursera)
+- Python for Data Science (IBM)
